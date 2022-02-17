@@ -18,7 +18,7 @@ https://gyazo.com/6086617b7473adc8184b94a12289095a
  
 Text Shuffleが動作する環境は以下の通りです．
  
-* Windows10, 11 がインストールされていること
+* Windows10, 11がインストールされていること
 * .NET Framework 4.7.2以上がインストールされていること
  
 # Installation
